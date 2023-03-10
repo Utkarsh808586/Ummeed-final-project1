@@ -1,0 +1,25 @@
+@using BOL;
+@{
+    Account ac = ViewData["Account"] as Account;
+}
+<html>
+    <meta>
+    <head>
+
+    </head>
+    <body style="background-image: url(/Images/pay4.jpg); background-size: 80%">
+   <div><h1 style="font-family: fantasy; color: white;"> Payment </h1></div><br><br>
+
+        <form action="/home/NonAnonymus" method="post">
+        <input type="hidden" name="accid" id="accid" value="@ac.Accid">
+        
+                  <h3 style="color: white;">Donar Name : <input type="text" class="btn btn-light rounded" name="dname" id="dname" required="true" placeholder="Enter Your name"/></h3><br>
+             
+                   <h3 style="color: white;"> Pay Amount : &nbsp;<input type="number" class="btn btn-light rounded" name="payment" id="payment" required="true" placeholder="Enter Amount"/></h3><br>
+           
+                  <h3 style="color: white;">  Email ID :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" class="btn btn-light rounded" name="mail" id="mail" required="true" placeholder="Enter Registered Email"/></h3><br>
+         <br>
+         <div><button type="submit" name="btn" id="btn" class="btn btn-light"><h5>Payment</h5></button></div>
+        </form>
+    </body>
+</html>

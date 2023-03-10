@@ -1,0 +1,37 @@
+@using BOL;
+@{
+    ChildSts ch = ViewData["Child"] as ChildSts;
+    Account ac = ViewData["Account"] as Account;
+}
+
+<html>
+    <meta>
+    <head>
+
+    </head>
+
+    <div align="center" style="border-radius: 50%; background-color: lightgray;"><h3>Fill the Enteries</h3></div><br><br><br>
+    @* <div align="left"><h4><u>@TempData["message"]</u></h4></div> *@
+    <body>
+        <form action="/home/edit" method="post">
+            <input type="hidden" name="accid" id="accid" value="@ac.Accid"/>
+           <input type="hidden" name="chid" id="chid" value="@ch.Chid"/>
+           <input type="hidden" name="name" id="name" value="@ch.Chname"/>
+           <input type="hidden" name="chkey" id="chkey" value="@ch.Chkey"/>
+            <h2 style="font-family:Georgia, 'Times New Roman', Times, serif;">@ch.Chname</h2>
+          <table class="table table-striped">
+             <tr>
+                <th>
+                    Enter Payment : <input type="text" name="payment" id="payment" required="true" value=@ch.Payment placeholder="Enter Amount"/>
+                </th>
+             </tr>
+             <tr>
+                <th>
+                    Enter Date : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="date" id="date" required="true" value=@ch.Date placeholder="Enter Amount"/>
+                </th>
+             </tr>
+          </table><br>
+           <button type="submit" name="btn" id="btn" class="btn btn-dark ">Update New Enteries</button>
+        </form>
+    </body>
+</html>

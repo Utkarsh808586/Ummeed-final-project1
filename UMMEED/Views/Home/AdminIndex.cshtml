@@ -1,0 +1,46 @@
+@using BOL;
+
+@{
+    List<ChildSts> chlist = ViewData["Child"] as List<ChildSts>;
+}
+
+<html>
+  <meta>
+  
+  <head></head>
+  <div align="left"><h3>Welcome Admin Page</h3></div>
+   <div align="right"><a class="btn btn-primary btn-rounded" href="/home/index">LOG OUT</a></div>
+  <body>
+        
+       <form action="/Home/AdminIndex" method="get">
+         <div align="left"><h4>@TempData["message"]</h4></div>
+         <table class="table table-striped">
+            <tr>
+                <th>ChilD ID</th>
+                <th>Child Name</th>
+                <th>Child Payment</th>
+                <th>Paid date</th>
+                <th>Operation</th>
+            </tr>
+           
+                @{
+                    foreach(ChildSts ch in chlist){
+                      <tr>
+                        <td>@ch.Chid</td>
+                        <td>@ch.Chname</td>
+                        <td>@ch.Payment</td>
+                        <td>@ch.Date</td>
+                        <td><a class="btn btn-dark btn-rounded" href="/home/edit?chid=@ch.Chid">UPDATE</a> / <a class="btn btn-danger btn-rounded" href="/home/delete?chid=@ch.Chid">REMOVE</a></td>
+                      </tr>
+                    }
+                }
+            
+
+         </table>
+       </form>
+       <div align="Left"><a class="btn btn-warning btn-rounded" href="/home/insert">Register New Child</a></div><br><br>
+       <div align="left"><a class="btn btn-info btn-rounded" href="/home/AvailableAmount">See Account Storage</a></div>
+
+  </body>
+</html>
+

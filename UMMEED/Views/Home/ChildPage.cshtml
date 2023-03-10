@@ -1,0 +1,21 @@
+
+@{
+    
+   int uid = (int)TempData["uid"];
+   string uname = TempData["uname"].ToString();
+}
+
+<html>
+    <meta>
+    <head>
+
+    </head>
+    <div align="right"><a href="/home/index"><button type="submit" name="btn" id="btn"  class="btn btn-dark">LOG OUT</button></a></div>
+    <body><br><br>
+        <div><h1  align="center" style="background-color: lightgray; border-radius: 50%;">Welcome To Child Page</h1></div><br><br><br><div><h5>Child Name:</h5>
+
+        <h3 style="font-style: italic;">@uname</h3><br><br></div>
+       
+        <a href="/home/ChildStatus?chid=@uid"><button type="submit" name="btn" id="btn" class="btn btn-dark">Child Status</button></a>
+    </body>
+</html>

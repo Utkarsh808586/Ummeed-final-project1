@@ -1,0 +1,233 @@
+﻿<html>
+    
+   @{ ViewData["Title"] = "Home Page";
+}
+
+@{
+    var admin="admin";
+    var child="child";
+} 
+<body style="background-image: url(/Images/bb3.jpg); background-size: cover;">
+    <main class=" flex ">
+        <div align="right"> 
+           <a href="/Home/LoginAdmin?role=@admin"><button class="btn btn-dark btn-rounded" style="text-shadow: 3px 3px 5px rgb(253, 252, 252);">Admin Login</button></a>
+           <a href="/Home/LoginChild?role1=@child"><button class="btn btn-dark btn-rounded" style="text-shadow: 3px 3px 5px rgb(250, 249, 249);">Child Login</button></a>  
+        </div>
+        
+        
+     
+       <div>
+        <div class="font-serif bg-red-500">
+          
+            <img src="/Images/ummeed.png" class="w-25 h-50" alt=""> 
+           <h1 class="display-4 font-serif"><b>UMMEED</b></h1>
+            <p>( उम्मीद की किरण )</p>
+        </div>
+       
+
+         
+
+
+         <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="10000">
+      <img src="/Images/cc4.jpg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+        <p></p>
+      </div>
+    </div>
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="/Images/cc3.jpg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+        <p></p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="/Images/cc2.jpg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+        <p></p>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+         </main><br><br><br><br><br><br>
+
+    <title></title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+      .parent {
+        position: relative;
+        max-width: 800px;
+        
+        margin: 0 auto;
+      }
+      .parent img {
+        vertical-align: middle;
+      }
+      .parent .text {
+        position: absolute;
+        bottom: 0;
+        background: rgb(0, 0, 0);/* Fallback color */
+        background: rgba(0, 0, 0, 0.5);/* Black background with opacity */
+        color: #ffffff;
+        width: 95%;
+        padding: 20px;
+      }
+      .hello {
+        display: flex;
+      }
+    </style>
+  
+  <body id="hello">
+    
+    <div  id="flex-container">
+    <div class="flex-item parent" >
+       
+      <img src="/Images/c1.jpg" alt="Notebook" style="width:100%;">
+      <div class="text">
+        <a style="color: white;" href="/home/Registration">
+        <h2>REGISTRATION</h2></a><br>
+        <p>
+         Register orphan children for financial and non-financial support.
+The process is simple and confidential.
+By registering an orphan child today, you can join efforts to create a brighter future for vulnerable children
+        </p>
+        
+      </div>
+    </div><br>
+    <h2></h2>
+    <div class="flex-item parent">
+      <img src="/Images/c2.jpg" alt="Notebook" style="width:100%;">
+      <div class="text">
+         <a style="color: white;" href="/home/Bemyfriend">
+        <h2>Be My Friend</h2></a>
+        <p>To support orphan children, you can register as a friend,
+You can be helping hand, listening ear, watchful eye, and active participant in their growth.
+
+This is a non finacaial help, you can do as your convenience & expertise which will make positive impact in lives of orphan children.
+          
+        </p>
+      </div>
+    </div><br>
+    <h2></h2>
+    <div class="flex-item parent" >
+      <img src="/Images/c3.jpg" alt="Notebook" style="width:100%;">
+      <div class="text">
+        <a style="color: white;" href="/home/Donation">
+        <h2>DONATE</h2></a><br>
+        <p>
+        The opportunity to make a positive impact in the lives of orphan children & contribute towards a brighter future for them through financial contributions.
+The donation process is simple, secure, transparent.
+        </p>
+      </div>
+    </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+  
+    
+ <style>
+    
+#flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1300px;
+    
+    margin: 0 auto;
+}
+
+.flex-item {
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+}
+ </style>
+
+</body> 
+
+
+<div class="demo-wrap">
+  <div class="demo-content">
+    <h1>Our Project</h1>
+    <p><h4>"Help make a difference in the lives of orphan children through financial contributions" is an opportunity to support vulnerable children in need. Your financial contributions can provide access to basic needs such as food, shelter, and clothing, as well as educational and healthcare opportunities that can improve their future prospects. By donating to our organization, you can directly impact the lives of orphan children and contribute towards a brighter future for them. Our donation process is simple, secure, and transparent, and we are committed to ensuring that every donation is utilized effectively to support orphan children in need. Join us in our efforts to create a better future for vulnerable children by making a financial contribution today
+</h4></p>
+  </div>
+</div>
+<style>
+    .demo-wrap {
+  position: relative;
+}
+
+.demo-wrap:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.6;
+ 
+  background-image: url("/Images/l1.jpg");
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: cover;
+}
+
+.demo-content {
+  position: relative;
+  padding: 10%;
+}
+</style>
+
+
+     <style>
+            #leftbox {
+                float:right;
+              
+                width:25%;
+                height:300px;
+            }
+            #middlebox{
+                float:center ;
+                
+                 width:25%;
+                height:300px; 
+            }
+            #rightbox{
+                float:left;                
+                width:25%;
+                height:300px; 
+            }
+           
+            
+        </style>
+        
+ </body>
+
+</html>

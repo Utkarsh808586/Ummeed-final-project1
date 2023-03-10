@@ -1,0 +1,39 @@
+@{
+    string role1 = ViewData["ChildRole"] as string ;
+}
+<html>
+
+    <meta>
+    <head>
+
+    </head>
+
+    
+    <body style="background-image: url(/Images/clogin.jpg);background-size: cover;">
+    
+              <div align="left">
+                  <div class="card" style="width: 30rem;background-color: rgba(255, 255, 255, .15);  
+ backdrop-filter: blur(+80px);">
+                          <div class="card-body">
+                               
+                               <div align = "center">
+                               <h3 style="text-shadow:3px 3px 8px black" style="color: azure;">Children Login Page</h3>
+                               <h3 style="text-shadow:3px 3px 8px black" style="color: azure;">PLease Enter Your Credentials</h1><br>
+                                @TempData["message"]</div><br><br>
+
+                            <form action="/Home/LoginChild" method="post">
+            <input type="hidden" name="role1" id="role1" value="@role1"/>       
+           <b style="color: rgb(0, 4, 4);">USER ID</b>   : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="number" class="btn btn-light btn-rounded" name="uid" id="uid" required="true" placeholder="Id"/><br><br>
+           <b style="color: rgb(0, 3, 3);">USER NAME</b> : <input type="text" class="btn btn-light btn-rounded" name="uname" id="uname" required="true" placeholder="user"/><br><br>
+           <b style="color: rgb(0, 5, 5);">PASSWORD</b>  : &nbsp;<input type="password" class="btn btn-light btn-rounded" name="password" id="password" required="true" placeholder=" Password"/><br><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+           <button type="submit" class="btn btn-dark btn-rounded" name="btn" id="btn" style="text-shadow:3px 3px 7px #626367">Login</button>&nbsp;&nbsp;&nbsp;&nbsp;<button type="reset" class="btn btn-danger btn-rounded" name="btn1" id="btn1" style="text-shadow:6px 6px 7px #58585b">Cancel</button>
+              
+        </form>
+                    </div>
+             </div>
+        
+    </div>
+    </body>
+    
+</html>

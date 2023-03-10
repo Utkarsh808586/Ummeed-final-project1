@@ -1,0 +1,46 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+ 
+  /* background-image: url("/Images/home2.gif");
+  background-size: cover; */
+}
+
+.back-video{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+@media(min-aspect-ratio:16/9){
+   .back-video{
+     width: 100%;
+     height: auto;
+   }
+}
+
+/* @media(min-aspect-ratio:16/9){
+  .back-video{
+    width: auto;
+    height: 100%;
+  } 
+}*/

@@ -1,0 +1,433 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\UMMEED.bundle.scp.css",
+      "PackagePath": "staticwebassets\\UMMEED.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\HomeVid.mp4",
+      "PackagePath": "staticwebassets\\Images\\HomeVid.mp4"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\adlogin.jpg",
+      "PackagePath": "staticwebassets\\Images\\adlogin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\adlogin1.jpg",
+      "PackagePath": "staticwebassets\\Images\\adlogin1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\bb1.jpg",
+      "PackagePath": "staticwebassets\\Images\\bb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\bb2.jpg",
+      "PackagePath": "staticwebassets\\Images\\bb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\bb3.jpg",
+      "PackagePath": "staticwebassets\\Images\\bb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\bb4.jpg",
+      "PackagePath": "staticwebassets\\Images\\bb4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\bb5.jpg",
+      "PackagePath": "staticwebassets\\Images\\bb5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\bb6.jpg",
+      "PackagePath": "staticwebassets\\Images\\bb6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\bb7.jpg",
+      "PackagePath": "staticwebassets\\Images\\bb7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\bb8.jpg",
+      "PackagePath": "staticwebassets\\Images\\bb8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\c1.jpg",
+      "PackagePath": "staticwebassets\\Images\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\c2.jpg",
+      "PackagePath": "staticwebassets\\Images\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\c3.jpg",
+      "PackagePath": "staticwebassets\\Images\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\c4.jpg",
+      "PackagePath": "staticwebassets\\Images\\c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\cc1.jpg",
+      "PackagePath": "staticwebassets\\Images\\cc1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\cc2.jpg",
+      "PackagePath": "staticwebassets\\Images\\cc2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\cc3.jpg",
+      "PackagePath": "staticwebassets\\Images\\cc3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\cc4.jpg",
+      "PackagePath": "staticwebassets\\Images\\cc4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\cc5.jpg",
+      "PackagePath": "staticwebassets\\Images\\cc5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\cc6.jpg",
+      "PackagePath": "staticwebassets\\Images\\cc6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\cc61.jpg",
+      "PackagePath": "staticwebassets\\Images\\cc61.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\cd.jpg",
+      "PackagePath": "staticwebassets\\Images\\cd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\clogin.jpg",
+      "PackagePath": "staticwebassets\\Images\\clogin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\home.jpg",
+      "PackagePath": "staticwebassets\\Images\\home.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\home2.gif",
+      "PackagePath": "staticwebassets\\Images\\home2.gif"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\home3.mp4",
+      "PackagePath": "staticwebassets\\Images\\home3.mp4"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\icon1.png",
+      "PackagePath": "staticwebassets\\Images\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\l1.jpg",
+      "PackagePath": "staticwebassets\\Images\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\loginAdmin.jpg",
+      "PackagePath": "staticwebassets\\Images\\loginAdmin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\loginChild.jpg",
+      "PackagePath": "staticwebassets\\Images\\loginChild.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\loginChild2.jpg",
+      "PackagePath": "staticwebassets\\Images\\loginChild2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\loginChild3.jpg",
+      "PackagePath": "staticwebassets\\Images\\loginChild3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\p1.jpg",
+      "PackagePath": "staticwebassets\\Images\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\p2.jpg",
+      "PackagePath": "staticwebassets\\Images\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\p3.jpg",
+      "PackagePath": "staticwebassets\\Images\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\pay2.jpg",
+      "PackagePath": "staticwebassets\\Images\\pay2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\pay3.jpg",
+      "PackagePath": "staticwebassets\\Images\\pay3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\pay4.jpg",
+      "PackagePath": "staticwebassets\\Images\\pay4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\ummeed.png",
+      "PackagePath": "staticwebassets\\Images\\ummeed.png"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Images\\video.mp4",
+      "PackagePath": "staticwebassets\\Images\\video.mp4"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\Videos\\vcd.webm",
+      "PackagePath": "staticwebassets\\Videos\\vcd.webm"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DHANRAJ\\Desktop\\Prac1\\UMMEED\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.UMMEED.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.UMMEED.props",
+      "PackagePath": "build\\UMMEED.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.UMMEED.props",
+      "PackagePath": "buildMultiTargeting\\UMMEED.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.UMMEED.props",
+      "PackagePath": "buildTransitive\\UMMEED.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
